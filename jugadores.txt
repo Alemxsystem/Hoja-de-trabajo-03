@@ -1,0 +1,3 @@
+juan	31	melon	3800
+Jorge Dias	20	Mexico	8100
+Mariosh	54	espa	3800
